@@ -1,1 +1,1 @@
-My new branch file This is git Quick start demo 
+My new withconflict file This is git Quick start demo 
